@@ -1,6 +1,6 @@
 ## VVV17 Resources
 
-- 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki) _instructions, assignments, material_
+- 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
 - 👋 [**Q&A**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
 - 😶 **Chat**
 - 👴 [**Mentors**](./mentors.md)
