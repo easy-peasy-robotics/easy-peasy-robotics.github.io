@@ -5,5 +5,6 @@
 - **Claudio Fantacci** [@claudiofantacci](https://github.com/claudiofantacci)
 - **Giulia Vezzani** [@giuliavezzani](https://github.com/giuliavezzani)
 - **Alberto Cardellino** [@barbalberto](https://github.com/barbalberto)
+- **Luca Caridà** [@lineacurva](https://github.com/lineacurva)
 
 ### [Main Page](./README.md)
