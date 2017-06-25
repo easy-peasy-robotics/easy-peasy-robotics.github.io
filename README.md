@@ -1,4 +1,4 @@
-## VVV17 Resources
+## Easy Peasy Robotics :robot:
 
 - 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
 - 👋 [**Q&A**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
