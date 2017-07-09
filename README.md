@@ -7,7 +7,7 @@ Humanoid robots are complex machines, equipped with devices for visual, touch, a
 
 The aim of this **2-days crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of **lectures followed by hands-on sessions** using the **simulator** as well as a **real [iCub](http://www.icub.org) head**.
 
-This course will cover the following topics:
+The following topics will be covered:
 - **Software architectures for robot programming (i.e. YARP)**
 - **Robot control**
 - **Robot vision**
