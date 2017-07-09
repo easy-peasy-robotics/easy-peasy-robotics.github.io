@@ -1,6 +1,6 @@
-## Easy Peasy Robotics :robot:
+## Easy Peasy Robotics Crash Course :robot:
 
-## Course at glance
+### Course at glance
 Humanoid robots are complex machines, equipped with sensors for visual, touch, auditory and force sensing. Programming such robots require expertise in different disciplines encompassing control theory, computer vision, machine learning and software engineering.
 
 The aim of this crash course is to provide students with a complete overview of the research problems related to humanoid robot programming, from perception to control. The school is organized as a set of theoretical lectures followed by hands-on sessions using simulators as well as real robots. A set of evening talks by renown researchers in robotics will complement the main school activities by exposing students to the latest results in the field.
@@ -14,7 +14,7 @@ This course is an evolution of the Veni Vidi Vici (VVV) iCub summer school, whic
 
 Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and versioning system with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
-## Resources
+### Resources
 - 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
 - 👋 [**Q&A**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
 - 😶 [**Chat on Slack**](https://easy-peasy-robotics.slack.com)
