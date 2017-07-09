@@ -12,14 +12,14 @@ This course will cover the following topics:
 - **Robot control**
 - **Robot vision**
 
-This crash course is a revised excerpt of the [**Veni Vidi Vici International Winter School on Humanoid Robot Programming**](http://icub.org/winterschool).
+This crash course is a revised excerpt of the [Veni Vidi Vici International Winter School on Humanoid Robot Programming](http://icub.org/winterschool).
 
 Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and source code management with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
 ### Resources
-- 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
-- 👋 [**Q&A**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
-- 😶 [**Chat on Slack**](https://easy-peasy-robotics.slack.com)
-- 👴 [**Mentors**](./mentors.md)
-- 🙋 [**Campuseros**](./campuseros.md)
-- 🎓 [**Gradebook**](https://easy-peasy-robotics.github.io/gradebook)
+- 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
+- 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
+- 😶 [Chat on Slack](https://easy-peasy-robotics.slack.com)
+- 👴 [Mentors](./mentors.md)
+- 🙋 [Campuseros](./campuseros.md)
+- 🎓 [Gradebook](https://easy-peasy-robotics.github.io/gradebook)
