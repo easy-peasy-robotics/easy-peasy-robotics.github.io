@@ -7,12 +7,10 @@ Humanoid robots are complex machines, equipped with devices for visual, touch, a
 
 The aim of this **2-days crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of **lectures followed by hands-on sessions** using the **simulator** as well as a **real [iCub](http://www.icub.org) head**.
 
-The following topics will be covered:
+This crash course is a revised excerpt of the [Veni Vidi Vici International Winter School on Humanoid Robot Programming](http://icub.org/winterschool) and will cover the following topics:
 - **Software architectures for robot programming (i.e. YARP)**
 - **Robot control**
 - **Robot vision**
-
-This crash course is a revised excerpt of the [Veni Vidi Vici International Winter School on Humanoid Robot Programming](http://icub.org/winterschool).
 
 Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and source code management with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
