@@ -15,7 +15,7 @@ This crash course is a revised excerpt of the [Veni Vidi Vici International Wint
 Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and source code management with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
 ### Resources
-- 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
+- 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki) (_program_,  _instructions_, _material_)
 - 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
 - 😶 [Chat on Slack](https://easy-peasy-robotics.slack.com)
 - 👴 [Mentors](./mentors.md)
