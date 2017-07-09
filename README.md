@@ -1,18 +1,20 @@
 ## Easy Peasy Robotics Crash Course :robot:
 
 ### Course at glance
-Humanoid robots are complex machines, equipped with sensors for visual, touch, auditory and force sensing. Programming such robots require expertise in different disciplines encompassing control theory, computer vision, machine learning and software engineering.
+_The course will be held on July 21st — 22nd, 2017 as a Coding Workshop at Campus Party Italia, Milan, Italy_
 
-The aim of this crash course is to provide students with a complete overview of the research problems related to humanoid robot programming, from perception to control. The school is organized as a set of theoretical lectures followed by hands-on sessions using simulators as well as real robots. A set of evening talks by renown researchers in robotics will complement the main school activities by exposing students to the latest results in the field.
+Humanoid robots are complex machines, equipped with devices for visual, touch, auditory and force sensing. Programming such robots require expertise in different disciplines encompassing control theory, computer vision, machine learning and software engineering.
+
+The aim of this **2-days crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. The course is organized as a set of **lectures followed by hands-on sessions** using the **simulator** as well as a **real [iCub](http://www.icub.org) head**.
 
 This course will cover the following topics:
-- Software architectures for robot programming (i.e. YARP)
-- Robot control
-- Robot vision
+- **Software architectures for robot programming (i.e. YARP)**
+- **Robot control**
+- **Robot vision**
 
-This course is an evolution of the Veni Vidi Vici (VVV) iCub summer school, which started in 2006 and has been held for ten editions. With respect to the original format, the program has been revised to dedicate more hours to frontal teaching and enriched by invited talks. Yet, students will be given sufficient time to build practical programming skills thanks to extensive hands-on sessions on software simulators and real humanoid robotic platforms. Two iCub humanoid robots will be available to the students, equipped with a cluster of computers and GPUs in a dedicated LAN.
+This crash course is a revised excerpt of the [**Veni Vidi Vici International Winter School on Humanoid Robot Programming**](http://icub.org/winterschool).
 
-Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and versioning system with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
+Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and source code management with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
 ### Resources
 - 📚 [**Wiki**](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki)
