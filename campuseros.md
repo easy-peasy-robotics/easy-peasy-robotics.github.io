@@ -5,6 +5,7 @@
 - **Daria Maggi** [@dmaggi95](https://github.com/dmaggi95)
 - **Edoardo Ghini** [@dinies](https://github.com/dinies)
 - **Fedele Tagarelli** [@tagaf](https://github.com/tagaf)
+- **Francesco Romano** [@romanofranz](https://github.com/romanofranz)
 - **Gianluca Cerilli** [@GianlucaCerilli](https://github.com/GianlucaCerilli)
 - **Giovanni Zenari** [@succoDiPompelmo](https://github.com/succoDiPompelmo)
 - **Giulio Romualdi** [@GiulioRomualdi](https://github.com/GiulioRomualdi)
