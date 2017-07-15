@@ -1,7 +1,7 @@
 ## Easy Peasy Robotics Crash Course :robot:
 
 ### Course at glance
-_The course will be held on July 21st — 22nd, 2017 as a Coding Workshop at Campus Party Italia, Milan, Italy_
+_The course will be held on July 21st — 22nd, 2017 as a Coding Workshop at [Campus Party Italia](http://italia.campus-party.org), Milan, Italy_
 
 Humanoid robots are complex machines, equipped with devices for visual, touch, auditory and force sensing. Programming such robots require expertise in different disciplines encompassing control theory, computer vision, machine learning and software engineering.
 
