@@ -6,6 +6,7 @@
 - **Edoardo Ghini** [@dinies](https://github.com/dinies)
 - **Fedele Tagarelli** [@tagaf](https://github.com/tagaf)
 - **Francesco Romano** [@romanofranz](https://github.com/romanofranz)
+- **Francesco Vergani** [@mastersaxalto](https://github.com/mastersaxalto)
 - **Gianluca Cerilli** [@GianlucaCerilli](https://github.com/GianlucaCerilli)
 - **Giovanni Zenari** [@succoDiPompelmo](https://github.com/succoDiPompelmo)
 - **Giulio Romualdi** [@GiulioRomualdi](https://github.com/GiulioRomualdi)
