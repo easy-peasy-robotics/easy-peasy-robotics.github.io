@@ -1,6 +1,7 @@
 # Campuseros
 
 - **Angelo Mastro** [@rdolivaw](https://github.com/rdolivaw)
+- **Antonio Casagrande** [@SmallerTurtle](https://github.com/SmallerTurtle)
 - **Bianca Frigerio** [@biancafrigerio](https://github.com/biancafrigerio)
 - **Daria Maggi** [@dmaggi95](https://github.com/dmaggi95)
 - **Edoardo Ghini** [@dinies](https://github.com/dinies)
