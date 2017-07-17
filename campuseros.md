@@ -17,7 +17,7 @@
 - **Luigi Sgambato** [@Luigis94](https://github.com/Luigis94)
 - **Marco Capotondi** [@Martcus18](https://github.com/Martcus18)
 - **Marco Solime** [@Redfox1096](https://github.com/Redfox1096)
-- **Mohammed Fadiga** [@Momy93](https://github.com/momy93)
+- **Mohamed Fadiga** [@Momy93](https://github.com/momy93)
 - **Nicola Piga** [@xEnVrE](https://github.com/xEnVrE)
 - **Robert Stefano Chinga Barazorda** [@robertsteven97](https://github.com/robertsteven97)
 - **Savio Del Peschio** [@saviodp7](https://github.com/saviodp7)
