@@ -12,6 +12,7 @@
 - **Giovanni Zenari** [@succoDiPompelmo](https://github.com/succoDiPompelmo)
 - **Giulio Romualdi** [@GiulioRomualdi](https://github.com/GiulioRomualdi)
 - **Giulio Turrisi** [@valenorf](https://github.com/valenorf)
+- **Juan Felipe Calderon** [@calde97](https://github.com/calde97)
 - **Lorenzo Battilocchi** [@Lorybat1998UCD](https://github.com/Lorybat1998UCD)
 - **Luigi Sgambato** [@Luigis94](https://github.com/Luigis94)
 - **Marco Capotondi** [@Martcus18](https://github.com/Martcus18)
