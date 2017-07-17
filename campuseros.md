@@ -12,6 +12,7 @@
 - **Giulio Romualdi** [@GiulioRomualdi](https://github.com/GiulioRomualdi)
 - **Giulio Turrisi** [@valenorf](https://github.com/valenorf)
 - **Lorenzo Battilocchi** [@Lorybat1998UCD](https://github.com/Lorybat1998UCD)
+- **Luigi Sgambato** [@Luigis94](https://github.com/Luigis94)
 - **Marco Capotondi** [@Martcus18](https://github.com/Martcus18)
 - **Marco Solime** [@Redfox1096](https://github.com/Redfox1096)
 - **Nicola Piga** [@xEnVrE](https://github.com/xEnVrE)
