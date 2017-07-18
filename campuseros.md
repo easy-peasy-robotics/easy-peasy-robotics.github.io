@@ -22,6 +22,7 @@
 - **Nicola Piga** [@xEnVrE](https://github.com/xEnVrE)
 - **Paola Piedimonte** [@ppaola](https://github.com/ppaola)
 - **Robert Stefano Chinga Barazorda** [@robertsteven97](https://github.com/robertsteven97)
+- **Samuele Lanzanova** [@SamueleLanzanova](https://github.com/SamueleLanzanova)
 - **Savio Del Peschio** [@saviodp7](https://github.com/saviodp7)
 
 ### [Main Page](./README.md)
