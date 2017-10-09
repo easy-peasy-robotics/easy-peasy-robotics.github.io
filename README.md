@@ -13,7 +13,7 @@ This crash course is a revised excerpt of the [_Veni Vidi Vici International Win
 Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and in source code management with **Git/GitHub**. They should also **bring their own laptop** to attend hands-on sessions.
 
 ### Venues
-- Coding Workshop at [Campus Party Italia](http://italia.campus-party.org), Milan, Italy, July 21—22, 2017.
+- Coding Workshop at [Campus Party Italia](http://italia.campus-party.org), Milan, Italy, July 21-22, 2017.
 
 ### Resources
 - 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki) (_program_,  _instructions_, _material_)
