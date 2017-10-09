@@ -14,6 +14,6 @@ Participants are expected to be skilled with **Linux** and to have background in
 
 ### Resources
 - 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki) (_program_,  _instructions_, _material_)
-- 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues/1)
+- 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues)
 - 🗣 [Chat on Slack](https://easy-peasy-robotics.slack.com)
 - :trophy: [Editions](./editions/README.md)
