@@ -7,4 +7,4 @@
 - **Alberto Cardellino** [@barbalberto](https://github.com/barbalberto)
 - **Luca Caridà** [@lineacurva](https://github.com/lineacurva)
 
-### [Main Page](./README.md)
+### [Main Page](./../../README.md)
