@@ -12,9 +12,9 @@ The course is organized in **two consecutive days**.
 
 ### Welcome
 
-| |
-| :---: |
-| 10:00 — 10:15 | 
+| | |
+| :---: | :---: |
+| 10:00 — 10:15 | [`slides`](./editions/cpi17/welcome.pptx) |
 
 ### Basics on YARP middleware
 [YARP](http://www.yarp.it/index.html) is an **operating system for robotics** that has been designed to facilitate a number of activities we have to deal with while developing the software that controls our robots. In particular, YARP is very good at mastering **data transmission** in a distributed system, abstracting the **software API** from the hardware details, and building **complex architectures** that regulate the high-level robot behaviors as a collection of simpler blocks.
@@ -23,7 +23,7 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 
 | | |
 | :---: | :---: | 
-| 10:15 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/yarp.pptx) |
+| 10:15 — 11:30 | [`slides`](./material/slides/yarp.pptx) |
 | | [`tutorial_yarp-basics`](https://github.com/vvv-school/tutorial_yarp-basics) |
 | 11:30 — 13:00 | [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
@@ -34,7 +34,7 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/control.pptx) |
+| 14:00 — 15:30 | [`slides`](./material/slides/control.pptx) |
 | 15:30 — 17:00 | [`assignment_control-pid`](https://github.com/vvv-school/assignment_control-pid) |
 
 ### Basic Computer Vision
@@ -46,7 +46,7 @@ Additionally, we will briefly explain **image recognition** using traditional co
 
 | | |
 | :---: | :---: | 
-| 17:00 — 18:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/vision.pdf) |
+| 17:00 — 18:30 | [`slides`](./material/slides/vision.pdf) |
 | | [`tutorial_yarp-opencv`](https://github.com/vvv-school/tutorial_yarp-opencv) |
 | | [`tutorial_find-wally`](https://github.com/vvv-school/tutorial_find-wally) |
 | 18:30 — 20:00 | [`assignment_closest-blob`](https://github.com/vvv-school/assignment_closest-blob) |
