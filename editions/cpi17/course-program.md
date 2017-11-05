@@ -53,7 +53,7 @@ Additionally, we will briefly explain **image recognition** using traditional co
 
 ## Day 2
 
-:busts_in_silhouette: [Team contest](Team-contest) as final assignment on the 🤖
+:busts_in_silhouette: [Team contest](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki/Team-contest) as final assignment on the 🤖
 
 | | |
 | :---: | :---: | 
