@@ -23,7 +23,7 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 
 | | |
 | :---: | :---: | 
-| 10:15 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/yarp.pptx) |
+| 10:15 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi17/yarp.pptx) |
 | | [`tutorial_yarp-basics`](https://github.com/vvv-school/tutorial_yarp-basics) |
 | 11:30 — 13:00 | [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
