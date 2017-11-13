@@ -14,7 +14,7 @@ The course is organized in **two consecutive days**.
 
 | | |
 | :---: | :---: |
-| 10:00 — 10:15 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi17/welcome.pptx) |
+| 10:30 — 10:45 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi17/welcome.pptx) |
 
 ### Basics on YARP middleware
 [YARP](http://www.yarp.it/index.html) is an **operating system for robotics** that has been designed to facilitate a number of activities we have to deal with while developing the software that controls our robots. In particular, YARP is very good at mastering **data transmission** in a distributed system, abstracting the **software API** from the hardware details, and building **complex architectures** that regulate the high-level robot behaviors as a collection of simpler blocks.
@@ -23,9 +23,9 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 
 | | |
 | :---: | :---: | 
-| 10:15 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi17/yarp.pptx) |
+| 10:45 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/mfr17/yarp.pptx) |
 | | [`tutorial_yarp-basics`](https://github.com/vvv-school/tutorial_yarp-basics) |
-| 11:30 — 13:00 | [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
+| 11:30 — 13:00 [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
 ### Basic PID Control
 **Controlling the motors** in different modalities is a necessary part to let our robot undertake the correct **action** in response to the cues received from the world. Among all the huge number of control tools engineers have, the **PID controller** is undoubtedly one of the **simplest** and at the same time **most effective** solution. Further, the PID is so **ubiquitous** in our life — it can control nearly everything, up to a given extent 😏 — that knowing how it works will certainly turn out to be a **resource** you will be happy to own.   
@@ -34,8 +34,8 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/control.pptx) |
-| 15:30 — 17:00 | [`assignment_control-pid`](https://github.com/vvv-school/assignment_control-pid) |
+| 14:00 — 14:45 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/control.pptx) |
+| 14:45 — 16:15 | [`assignment_control-pid`](https://github.com/vvv-school/assignment_control-pid) |
 
 ### Basic Computer Vision
 Given you now know how to cope with the **action**, **perception** kicks in as the other side of the story. Therefore, to close the loop with the action, robots need to sense the world and gauge a large amount of information acquired from the surrounding.
@@ -46,10 +46,10 @@ Additionally, we will briefly explain **image recognition** using traditional co
 
 | | |
 | :---: | :---: | 
-| 17:00 — 18:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/vision.pdf) |
+| 16:15 — 17:00 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/vision.pdf) |
 | | [`tutorial_yarp-opencv`](https://github.com/vvv-school/tutorial_yarp-opencv) |
 | | [`tutorial_find-wally`](https://github.com/vvv-school/tutorial_find-wally) |
-| 18:30 — 20:00 | [`assignment_closest-blob`](https://github.com/vvv-school/assignment_closest-blob) |
+| 17:00 — 18:30 | [`assignment_closest-blob`](https://github.com/vvv-school/assignment_closest-blob) |
 
 ## Day 2
 
@@ -57,4 +57,4 @@ Additionally, we will briefly explain **image recognition** using traditional co
 
 | | |
 | :---: | :---: | 
-| 09:00 — 19:00 | Non stop 😉 |
+| 10:30 — 18:30 | Non stop 😉 |
