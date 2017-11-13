@@ -1,4 +1,4 @@
-# Campuseros
+# Campuseros at CPI17
 
 - **Angelo Mastro** [@rdolivaw](https://github.com/rdolivaw)
 - **Antonio Casagrande** [@SmallerTurtle](https://github.com/SmallerTurtle)
