@@ -1,4 +1,4 @@
-# Mentors
+# Mentors at CPI17
 
 - **Ugo Pattacini** [@pattacini](https://github.com/pattacini)
 - **Vadim Tikhanoff** [@vtikha](https://github.com/vtikha)
