@@ -1,4 +1,4 @@
-# Course program
+# Course program at MFR17
 
 The course is organized in **two consecutive days**.
 
