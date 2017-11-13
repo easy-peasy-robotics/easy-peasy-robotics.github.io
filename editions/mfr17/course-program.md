@@ -25,7 +25,7 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | :---: | :---: | 
 | 10:45 — 11:30 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/mfr17/yarp.pptx) |
 | | [`tutorial_yarp-basics`](https://github.com/vvv-school/tutorial_yarp-basics) |
-| 11:30 — 13:00 [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
+| 11:30 — 13:00 | [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
 ### Basic PID Control
 **Controlling the motors** in different modalities is a necessary part to let our robot undertake the correct **action** in response to the cues received from the world. Among all the huge number of control tools engineers have, the **PID controller** is undoubtedly one of the **simplest** and at the same time **most effective** solution. Further, the PID is so **ubiquitous** in our life — it can control nearly everything, up to a given extent 😏 — that knowing how it works will certainly turn out to be a **resource** you will be happy to own.   
