@@ -1,7 +1,7 @@
 ## Easy Peasy Robotics Editions :trophy:
 
 ### Maker Faire Rome 2017
-Coding Workshop at [Maker Faire Rome](http://www.makerfairerome.eu/en/), Rome, Italy, December 2-3, 2017.
+Coding Workshop at [Maker Faire Rome](http://www.makerfairerome.eu/it/icub-easy-peasy-by-iit), Rome, Italy, December 2-3, 2017.
 - 📖 [Course program](./mfr17/course-program.md)
 - 👴 [Mentors](./mfr17/mentors.md)
 - 🙋 [Participants](./mfr17/participants.md)
