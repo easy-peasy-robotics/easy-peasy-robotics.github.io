@@ -6,3 +6,5 @@
 - **Nicola Carrino** [@Nicolacarrino](https://github.com/Nicolacarrino)
 - **Pietro Scabellone** [@piscab](https://github.com/piscab)
 - **Roberto Rovella** [@robertorovella91](https://github.com/robertorovella91)
+- **Ahmad Gazar** [@ahmadgazar](https://github.com/ahmadgazar)
+- **Francesco Mignone** [@ilnerdchuck](https://github.com/ilnerdchuck)
