@@ -8,3 +8,4 @@
 - **Roberto Rovella** [@robertorovella91](https://github.com/robertorovella91)
 - **Ahmad Gazar** [@ahmadgazar](https://github.com/ahmadgazar)
 - **Francesco Mignone** [@ilnerdchuck](https://github.com/ilnerdchuck)
+- **Raffaele Giammario** [@RafGiammario](https://github.com/RafGiammario)
