@@ -28,7 +28,7 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | 11:30 — 13:00 | [`assignment_yarp-find-rgb`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
 ### Basic PID Control
-**Controlling the motors** in different modalities is a necessary part to let our robot undertake the correct **action** in response to the cues received from the world. Among all the huge number of control tools engineers have, the **PID controller** is undoubtedly one of the **simplest** and at the same time **most effective** solution. Further, the PID is so **ubiquitous** in our life — it can control nearly everything, up to a given extent 😏 — that knowing how it works will certainly turn out to be a **resource** you will be happy to own.   
+**Controlling the motors** in different modalities is a necessary part to let our robot undertake the correct **action** in response to the cues received from the world. Among all the huge number of control tools engineers have, the **PID controller** is undoubtedly one of the **simplest** and at the same time **most effective** solution. Further, the PID is so **ubiquitous** in our lives — it can control nearly everything, up to a given extent 😏 — that knowing how it works will certainly turn out to be a **resource** you will be happy to own.   
 
 In this lesson plus hands-on, you will learn how to control the robotic head with velocity commands to make the iCub gaze at different points in the space moving its articulated neck and eyes systems. 
 
