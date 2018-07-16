@@ -5,7 +5,7 @@ Coding Workshop at [Campus Party Italia](http://italia.campus-party.org/), Milan
 - 📖 [Course program](./cpi18/course-program.md)
 - 👴 [Mentors](./cpi18/mentors.md)
 - 🙋 [Campuseros](./cpi18/campuseros.md)
-- 🎓 Gradebook (coming soon)
+- 🎓 Gradebook (https://easy-peasy-robotics.github.io/cpi18-gradebook/)
 
 ### Maker Faire Rome 2017
 Coding Workshop at [Maker Faire Rome](http://www.makerfairerome.eu/it/icub-easy-peasy-by-iit), Rome, Italy, December 2-3, 2017.
