@@ -14,7 +14,7 @@ The course is organized in **two consecutive days**.
 
 | | |
 | :---: | :---: |
-| 10:00 — 10:15 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi17/welcome.pptx) |
+| 10:00 — 10:15 | [`slides`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/cpi18/welcome.pptx) |
 
 ### Basics on YARP middleware
 [YARP](http://www.yarp.it/index.html) is an **operating system for robotics** that has been designed to facilitate a number of activities we have to deal with while developing the software that controls our robots. In particular, YARP is very good at mastering **data transmission** in a distributed system, abstracting the **software API** from the hardware details, and building **complex architectures** that regulate the high-level robot behaviors as a collection of simpler blocks.
