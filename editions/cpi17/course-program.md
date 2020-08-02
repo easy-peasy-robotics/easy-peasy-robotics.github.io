@@ -1,4 +1,5 @@
-# Course program at CPI17
+📖 Course program at CPI17
+===========================
 
 The course is organized in **two consecutive days**.
 

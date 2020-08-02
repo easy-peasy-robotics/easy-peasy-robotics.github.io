@@ -1,4 +1,4 @@
-## Easy Peasy Robotics Crash Course :robot:
+## Easy Peasy Robotics Crash Course 🤖
 
 ### Course at glance
 Humanoid robots are complex machines, equipped with devices for visual, touch, auditory and force sensing. Programming such robots require expertise in different disciplines encompassing control theory, computer vision, machine learning and software engineering.

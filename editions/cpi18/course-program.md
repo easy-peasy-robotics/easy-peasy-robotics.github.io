@@ -1,4 +1,5 @@
-# Course program at CPI18
+📖 Course program at CPI18
+===========================
 
 The course is organized in **two consecutive days**.
 
