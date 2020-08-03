@@ -1,4 +1,5 @@
-# Campuseros at CPI17
+Campuseros at CPI17
+===================
 
 |[<img src="https://github.com/rdolivaw.png" width="180">](https://github.com/rdolivaw)|
 |:---:|

@@ -8,7 +8,9 @@ We at the [Istituto Italiano di Tecnologia](https://iit.it) (IIT) know quite wel
 
 In detail, the aim of the **4-days online crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. Also, we will cover aspects of mechanical design in simple scenarios to highlight the tight connection among all the steps of the design chain from ground up and thus to call attention to the importance of developing a multidisciplinary approach to robotics.
 
-Unlike the [past editions](../README.md) of Easy Peasy Robotics that we held in presence, the **🌐 WEB20 event will be fully online** and will take place in **📅 October 2020, from Monday 26/10 to Thursday 29/10**. Read up the [course program](./course-program.md) to find out more.
+Unlike the [past editions](../README.md) of Easy Peasy Robotics that we held in presence, the **🌐 WEB20 event will be fully online** and will take place in **📅 October 2020, from Monday 26/10 to Thursday 29/10**.
+
+Read up the [course program](./course-program.md) to find out more.
 
 Thereby, the course comprises a set of **lectures followed by hands-on sessions**, where we will make use of advanced online tools to walk you through the basics of how to design printable objects, and how to conceive and put to test in a simulated environment the control of the [iCub](https://icub.iit.it/products/icub-robot) humanoid. These tools will be running in the cloud and accessible in the browser, hence no installation is needed on your own PC.
 
@@ -16,7 +18,7 @@ Importantly, the fourth day of the course we will make the _sim-to-real_ leap th
 
 We will make sure that your software can be deployed seamlessly on our system at IIT and you will be watching your demo playing live on the iCub! ✨
 
-In addition to this fancy tech stuff and to avoid burning out your brains with a continuous flow of bits 😄, we will give you intermediate sessions to explore together methods for improving soft skills, to better engage in teams and foster collaboration among peers, which are all key in software development and more in general for your professional career. You will certainly enjoy these inspiring "pills" too!  
+In addition and to avoid burning out your brains with a continuous flow of bits 😄, we will give you intermediate sessions to explore together methods for improving soft skills, to better engage in teams and foster collaboration among peers, which are all key in software development and more in general for your professional career. You will certainly enjoy these inspiring "pills" too!  
 
 | | Summary |
 | :--- | :--- |
@@ -33,13 +35,13 @@ At the end of the crash course, you will be able to learn and exercise the found
 - **Open-source development**
 - **Team building and collaboration**
 
-### Applications
-If you are an undergrad, a maker or a young scholar who loves robotics and wants to know more, or you are simply curious of how a robot works under the hood, don't hesitate to join our crash course and apply by following the instructions outlined in the [📝 submission page](https://easy-peasy-robotics.github.io/submission_instructions).
+### Apply to participate
+If you are an _undergrad_, a _maker_, a _young scholar_ or a _passionate_ who loves robotics and wants to know more, or you are simply curious of how a robot works under the hood, do not hesitate to join our crash course and apply by following the instructions outlined in the [📝 submission page](https://easy-peasy-robotics.github.io/submission_instructions).
 
 Be aware of the requirements below:
 - Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and in code management with **Git/GitHub**.
 - We will accept max **20 participants**, as bigger students' groups are not easily manageable remotely given that we need to guarantee a decent quality of interaction among mentors and participants.
-- Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CEST-2h, CEST+2h]**, essentialy Europe and Africa. This is a necessity induced by the online classroom.
+- Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CET-2h, CET+2h]** centered around the [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time), essentialy Europe and Africa. This is a necessity induced by the online classroom.
 
 ### Resources
 - 📚 [Course program](./course-program.md)
