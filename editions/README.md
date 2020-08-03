@@ -2,7 +2,7 @@
 
 ### Web 2020
 Online Edition, October 26-29, 2020.
-- 📢 [Call](./web20/open-call.md)
+- 📢 [Open Call](./web20/open-call.md)
 - 📖 [Course program](./web20/course-program.md)
 - 👨🏻‍💻 [Mentors](./web20/mentors.md)
 
