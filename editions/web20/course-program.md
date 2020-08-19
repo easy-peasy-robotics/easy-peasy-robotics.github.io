@@ -65,7 +65,7 @@ Given you now know how to cope with the **action**, **perception** kicks in as t
 
 In our settings, this means that you will learn how to analyze the content of the images the robot receives from the two cameras mounted in its eye bulbs. You will do so in terms of different **cues** (e.g. colors, depth, point-sets, shape, ...) and to perform some relevant **processing** (e.g. segmentation).
 
-Additionally, we will explain **shape recognition** using traditional computer vision techniques based on models matching. Although Deep-Learning methods tend to be more popular nowadays, traditional approaches still power many applications. Many of these algorithms are also available in computer vision libraries like **OpenCV**, **PCL**, **CGAL** and work very well out of the box.
+Additionally, we will explain **shape recognition** using traditional computer vision techniques based on models matching. Although Deep-Learning methods tend to be more popular nowadays, traditional approaches still power many applications. Many of these algorithms are also available in computer vision libraries like [**OpenCV**](https://opencv.org), [**PCL**](https://pointclouds.org), [**CGAL**](https://www.cgal.org) and work very well out of the box.
 
 | | |
 | :---: | :---: | 
