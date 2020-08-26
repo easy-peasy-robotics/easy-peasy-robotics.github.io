@@ -34,7 +34,7 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 ### Basics on CAD design
 In this session, we are going to show you how to use an online tool for [**CAD design**](https://en.wikipedia.org/wiki/Computer-aided_design).
 After an initial quick tour touching on the main functionalities and features, we will go deeper into the **3D printing oriented design**.
-At the end, you will be able to model your own 3D object that in turn will be produced in our workshop in time for being used in your demos.
+At the end, you will be able to model your own 3D object that in turn will be produced in our workshop in time for being used in your demos (see [Day 4](#day-4%EF%B8%8F%E2%83%A3)).
 
 | | |
 | :---: | :---: | 
