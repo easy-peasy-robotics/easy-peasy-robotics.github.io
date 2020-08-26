@@ -32,10 +32,9 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | 14:00 — 15:00 | [`slides`]() (TBD) |
 
 ### Basics on CAD design
-We are going to use a CAD [computer aided design] that will run on your browser avoiding installations and OS issues.
-After a fast tour of the principal functions and features we will go deep into the 3d printing oriented design.
-At the end of this fast course you will be able to model your own specific object that will be produced in our laboratories in time for your demos.
-Obviously you will be tutored during the design phase in order to easily overcome every problems that may arise. 
+In this session, we are going to show you how to use an online tool for [**CAD design**](https://en.wikipedia.org/wiki/Computer-aided_design).
+After an initial quick tour touching on the main functionalities and features, we will go deeper into the **3D printing oriented design**.
+At the end, you will be able to model your own 3D object that in turn will be produced in our workshop in time for being used in your demos.
 
 | | |
 | :---: | :---: | 
