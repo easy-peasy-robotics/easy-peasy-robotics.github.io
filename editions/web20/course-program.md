@@ -11,7 +11,7 @@ The following timetables are expressed in [Central European Time](https://en.wik
 
 | | |
 | :---: | :---: |
-| 09:00 — 09:30 | [`slides`]() (TBD) |
+| 09:00 — 09:30 | `overview` |
 
 ### Basics on YARP middleware
 [YARP](http://www.yarp.it/index.html) is an **operating system for robotics** that has been designed to facilitate a number of activities we have to deal with while developing the software that controls our robots. In particular, YARP is very good at mastering **data transmission** in a distributed system, abstracting the **software API** from the hardware details, and building **complex architectures** that regulate the high-level robot behaviors as a collection of simpler blocks.
@@ -20,16 +20,16 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 
 | | |
 | :---: | :---: | 
-| 09:30 — 11:30 | [`slides`]() (TBD) |
-| | [`tutorials`]() (TBD) |
-| 11:30 — 13:00 | [`assignments`]() (TBD) |
+| 09:30 — 11:30 | `lecture` |
+| | `tutorials` |
+| 11:30 — 13:00 | `assignments` |
 
 ### Soft Skills
-Have you ever wondered if you are good at teamwork? Enhance your soft skills with **"Can I trust you?" role-play** and find out more about your **collaboration and communication skills**!
+Have you ever wondered if you are good at **teamwork**? Enhance your soft skills with **"Can I trust you?" role-play** and find out more about your **collaboration and communication skills**!
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:15 | [`slides`]() (TBD) |
+| 14:00 — 15:15 | `interaction` |
 
 ### Basics on CAD design
 In this session, we are going to show you how to use an online tool for [**CAD design**](https://en.wikipedia.org/wiki/Computer-aided_design).
@@ -38,9 +38,9 @@ At the end, you will be able to model your own 3D object that in turn will be pr
 
 | | |
 | :---: | :---: | 
-| 15:30 — 17:30 | [`slides`]() (TBD) |
-| | [`tutorials`]() (TBD) |
-| 17:30 — 19:30 | [`assignments`]() (TBD) |
+| 15:30 — 17:30 | `lecture` |
+| | `tutorials` |
+| 17:30 — 19:30 | `assignments` |
 
 ## Day 2️⃣
 
@@ -51,16 +51,16 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 
 | | |
 | :---: | :---: | 
-| 09:00 — 11:00 | [`slides`]() (TBD) |
-| | [`tutorials`]() (TBD) |
-| 11:00 — 13:00 | [`assignments`]() (TBD) |
+| 09:00 — 11:00 | `lecture` |
+| | `tutorials` |
+| 11:00 — 13:00 | `assignments` |
 
 ### Soft Skills
 Wondering if you are a **risk taker**? Improve your soft skills with **"The jury" role-play** and find out more about your ability on **taking initiative and achieving goals**! 
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:15 | [`slides`]() (TBD) |
+| 14:00 — 15:15 | `interaction` |
 
 ### Basic Computer Vision
 Given you now know how to cope with the **action**, **perception** kicks in as the other side of the story. Therefore, to close the loop with the action, robots need to sense the world and gauge a large amount of information acquired from the surrounding.
@@ -71,9 +71,9 @@ Additionally, we will explain **shape recognition** using traditional computer v
 
 | | |
 | :---: | :---: | 
-| 15:30 — 17:30 | [`slides`]() (TBD) |
-| | [`tutorials`]() (TBD) |
-| 17:30 — 19:30 | [`assignments`]() (TBD) |
+| 15:30 — 17:30 | `lecture` |
+| | `tutorials` |
+| 17:30 — 19:30 | `assignments` |
 
 ## Day 3️⃣
 Day 3 is mostly free to let you elaborate on what you have learned thus far. Also, we will give you time to prepare the code for the demo on the last day!
@@ -84,12 +84,12 @@ Have you ever wondered if you are a **problem solver**? Enhance your soft skills
 
 | | |
 | :---: | :---: | 
-| 10:00 — 11:15 | [`slides`]() (TBD) |
+| 10:00 — 11:15 | `interaction` |
 
 ## Day 4️⃣
 👥 [Team contest]() (TBD) as final assignment on the 🤖
 
 | | |
 | :---: | :---: | 
-| 14:30 — 17:00 | Team contest |
-| 17:00 — 17:30 | Wrap up and goodbye |
+| 14:30 — 17:00 | `team contest` |
+| 17:00 — 17:30 | `wrap up and goodbye` |
