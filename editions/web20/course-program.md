@@ -25,11 +25,11 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | 11:30 — 13:00 | [`assignments`]() (TBD) |
 
 ### Soft Skills
-> ❓
+Have you ever wondered if you are good at teamwork? Enhance your soft skills with **"Can I trust you?" role-play** and find out more about your **collaboration and communication skills**!
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:00 | [`slides`]() (TBD) |
+| 14:00 — 15:15 | [`slides`]() (TBD) |
 
 ### Basics on CAD design
 In this session, we are going to show you how to use an online tool for [**CAD design**](https://en.wikipedia.org/wiki/Computer-aided_design).
@@ -56,11 +56,11 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 | 11:00 — 13:00 | [`assignments`]() (TBD) |
 
 ### Soft Skills
-> ❓
+Wondering if you are a **risk taker**? Improve your soft skills with **"The jury" role-play** and find out more about your ability on **taking initiative and achieving goals**! 
 
 | | |
 | :---: | :---: | 
-| 14:00 — 15:00 | [`slides`]() (TBD) |
+| 14:00 — 15:15 | [`slides`]() (TBD) |
 
 ### Basic Computer Vision
 Given you now know how to cope with the **action**, **perception** kicks in as the other side of the story. Therefore, to close the loop with the action, robots need to sense the world and gauge a large amount of information acquired from the surrounding.
@@ -80,12 +80,11 @@ Day 3 is mostly free to let you elaborate on what you have learned thus far. Als
 Of course, mentors will be always around to help. 
 
 ### Soft Skills
-> ❓
+Have you ever wondered if you are a **problem solver**? Enhance your soft skills with **"TV guide" role-play** and start the journey within yourself to discover your **analytical and creativity ability**!
 
 | | |
 | :---: | :---: | 
-| 10:00 — 11:30 | [`slides`]() (TBD) |
-| 15:00 — 16:00 | [`slides`]() (TBD) |
+| 10:00 — 11:15 | [`slides`]() (TBD) |
 
 ## Day 4️⃣
 👥 [Team contest]() (TBD) as final assignment on the 🤖
