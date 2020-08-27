@@ -99,3 +99,7 @@ Enhance your soft skills with **"TV guide" role-play** and start the journey wit
 | :---: | :---: | 
 | 14:30 — 17:00 | `team contest` |
 | 17:00 — 17:30 | `wrap up and goodbye` |
+
+---
+
+◀ Go back to the [Open Call](./open-call.md)
