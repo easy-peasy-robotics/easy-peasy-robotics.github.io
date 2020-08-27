@@ -87,7 +87,7 @@ Have you ever wondered if you are a **problem solver**? Enhance your soft skills
 | 10:00 — 11:15 | `interaction` |
 
 ## Day 4️⃣
-👥 [Team contest]() (TBD) as final assignment on the 🤖
+👥 **Team contest** as final assignment on the 🤖
 
 | | |
 | :---: | :---: | 
