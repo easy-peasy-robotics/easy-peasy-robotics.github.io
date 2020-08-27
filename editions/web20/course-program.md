@@ -25,7 +25,9 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | 11:30 — 13:00 | `assignments` |
 
 ### Soft Skills
-Have you ever wondered if you are good at **teamwork**? Enhance your soft skills with **"Can I trust you?" role-play** and find out more about your **collaboration and communication skills**!
+Have you ever wondered if you are good at **teamwork**?
+
+Enhance your soft skills with **"Can I trust you?" role-play** and find out more about your **collaboration and communication skills**!
 
 | | |
 | :---: | :---: | 
@@ -56,7 +58,9 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 | 11:00 — 13:00 | `assignments` |
 
 ### Soft Skills
-Wondering if you are a **risk taker**? Improve your soft skills with **"The jury" role-play** and find out more about your ability on **taking initiative and achieving goals**! 
+Wondering if you are a **risk taker**?
+
+Improve your soft skills with **"The jury" role-play** and find out more about your ability on **taking initiative and achieving goals**! 
 
 | | |
 | :---: | :---: | 
@@ -80,7 +84,9 @@ Day 3 is mostly free to let you elaborate on what you have learned thus far. Als
 Of course, mentors will be always around to help. 
 
 ### Soft Skills
-Have you ever wondered if you are a **problem solver**? Enhance your soft skills with **"TV guide" role-play** and start the journey within yourself to discover your **analytical and creativity ability**!
+Have you ever wondered if you are a **problem solver**?
+
+Enhance your soft skills with **"TV guide" role-play** and start the journey within yourself to discover your **analytical and creativity ability**!
 
 | | |
 | :---: | :---: | 
