@@ -25,7 +25,7 @@ In addition and to avoid burning out your brains with a continuous flow of bits 
 | 🏫 What? | **Easy Peasy Robotics Crash Course WEB20** |
 | 📅 When? | **From 26 to 29 October 2020**|
 | 🌐 Where? | **Online** | 
-| 🗣 Course Language? | **English** | 
+| 🗣 Language? | **English** | 
 
 At the end of the crash course, you will be able to learn and exercise the foundamental principles of:
 - **Software architectures for robot programming**
