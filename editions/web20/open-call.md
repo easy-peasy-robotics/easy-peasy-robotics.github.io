@@ -4,6 +4,8 @@ Easy Peasy Robotics Online Crash Course WEB20
 ### Course at glance
 Humanoid robots are complex machines, equipped with devices for visual, touch, auditory and force sensing, and embodied with sophisticated algorithms that enable to interact with the surrounding world. Building and programming such robots require expertise in different topics encompassing CAD design, control theory, computer vision, machine learning and software engineering.
 
+<img align="left" width="270" height="214" src="./assets/icub-head.png">
+
 We at the [Istituto Italiano di Tecnologia](https://iit.it) (IIT) know quite well what [building humanoids](https://icub.iit.it) means in terms of the effort and the struggle we have to devote to getting a beautiful mechanical body that finally does what we have studied hard to realize. But we also know how exciting and intriguing the science and the technology behind robotics can be and we have been always thrilled to share this awesome learning experience with novices. This is why we continue to organize supporting initiatives like our [summer/winter schools](https://icub.iit.it/projects/courses) and the **Easy Peasy Robotics Crash Course**.
 
 In detail, the aim of the **4-days online crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. Also, we will cover aspects of mechanical design in simple scenarios to highlight the tight connection among all the steps of the design chain from ground up and thus to call attention to the importance of developing a multidisciplinary approach to robotics.
