@@ -44,7 +44,7 @@ If you are an _undergrad_, a _maker_, a _young scholar_ or a _passionate_ who lo
 Be aware of the requirements below:
 - Participants are expected to be skilled with **Linux** and to have background in computer programming in **C/C++** and in code management with **Git/GitHub**. Also, participats are required to be good **English speakers** as the crash course will be held in English.
 - We will accept max **20 participants**, as bigger students' groups are not easily manageable remotely given that we need to guarantee a decent quality of interaction among mentors and participants.
-- Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CET-2h, CET+2h]** centered around the [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time), essentialy Europe and Africa. This is a necessity induced by the online classroom.
+- Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CET-2h, CET+2h]** centered around the [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time), essentially Europe and Africa. This is a necessity induced by the online classroom.
 
 ### Resources
 - 📚 [Course program](./course-program.md)
