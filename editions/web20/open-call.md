@@ -42,7 +42,7 @@ At the end of the crash course, you will be able to learn and exercise the found
 If you are an _undergrad_, a _maker_, a _young scholar_ or a _passionate_ who loves robotics and wants to know more, or you are simply curious of how a robot works under the hood, do not hesitate to join our crash course and apply by following the instructions outlined in the [📝 submission page](https://easy-peasy-robotics.github.io/submission_instructions).
 
 Be aware of the requirements below:
-- Participants are expected to be skilled with **Linux** and to have background in computer programming in **C++** and in code management with **Git/GitHub**. Also, participats are required to be good **English speakers** as the crash course will be held in English.
+- Participants are expected to be skilled with **Linux** and to have background in computer programming in **C++** and in code management with **Git/GitHub**. Also, participants are required to be good **English speakers** as the crash course will be held in English.
 - We will accept max **20 participants**, as bigger students' groups are not easily manageable remotely given that we need to guarantee a decent quality of interaction among mentors and participants.
 - Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CET-2h, CET+2h]** centered around the [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time), essentially Europe and Africa. This is a necessity induced by the online classroom.
 
