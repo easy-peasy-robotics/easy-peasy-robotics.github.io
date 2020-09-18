@@ -10,7 +10,7 @@ We at the [Istituto Italiano di Tecnologia](https://iit.it) (IIT) know quite wel
 
 In detail, the aim of the **4-days online crash course** is to provide participants with a brief overview of the research problems and applications related to humanoid robot programming, from perception to control. Also, we will cover aspects of mechanical design in simple scenarios to highlight the tight connection among all the steps of the design chain from ground up and thus to call attention to the importance of developing a multidisciplinary approach to robotics.
 
-Unlike the [past editions](../README.md) of Easy Peasy Robotics that we held in presence, the **🌐 WEB20 event will be fully online** and will take place in **📅 October 2020, from Monday 26/10 to Thursday 29/10**.
+Unlike the [past editions](../README.md) of Easy Peasy Robotics that we held in presence, the **🌐 WEB20 event will be fully online in live streaming** and will take place in **📅 October 2020, from Monday 26/10 to Thursday 29/10**.
 
 Read up the [course program](./course-program.md) to find out more.
 
