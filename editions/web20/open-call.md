@@ -24,11 +24,12 @@ In addition and to avoid burning out your brains with a continuous flow of bits 
 
 | | Summary |
 | :--- | :--- |
-| 🏫 What? | **Easy Peasy Robotics Crash Course WEB20** |
-| 📅 When? | **From 26 to 29 October 2020**|
-| 🌐 Where? | **Live, Online** | 
-| 🗣 Language? | **English** |
-| 📆 Application Deadline? | **02 October 2020** |
+| 🏫 What | **Easy Peasy Robotics Crash Course WEB20** |
+| 📅 When | **From 26 to 29 October 2020**|
+| 🌐 Where | **Live, Online** | 
+| 🗣 Language | **English** |
+| 📆 Application Deadline | **02 October 2020** |
+| ✔ Notification of Acceptance | **06 October 2020** |
 
 At the end of the crash course, you will be able to learn and exercise the foundamental principles of:
 - **Software architectures for robot programming**
@@ -47,6 +48,7 @@ Be aware of the requirements below:
 - We will accept max **20 participants**, as bigger students' groups are not easily manageable remotely given that we need to guarantee a decent quality of interaction among mentors and participants.
 - Unfortunately, we are forced to restrict the attendance to applicants living in one of the time zones included in the range **[CET-2h, CET+2h]** centered around the [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time), essentially Europe and Africa. This is a necessity induced by the online classroom.
 - The **hard deadline** to submit a fully filled up application is **02 October 2020** 📅
+- We will notify via GitHub issues about the selection outcomes within **06 October 2020** ✔
 
 ### Resources
 - 📚 [Course program](./course-program.md)
