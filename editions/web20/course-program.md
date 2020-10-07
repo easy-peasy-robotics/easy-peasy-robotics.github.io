@@ -5,7 +5,7 @@ The course is organized in **4 consecutive days** and will be **fully online**. 
 
 The following timetables are expressed in [Central European Time](https://en.wikipedia.org/wiki/Central_European_Time) (CET).
 
-## Day 1️⃣
+## Day 1️⃣ (26 Oct)
 
 ### Welcome
 
@@ -44,7 +44,7 @@ At the end, you will be able to model your own 3D object that in turn will be pr
 | | `tutorials` |
 | 17:30 — 19:30 | `assignments` |
 
-## Day 2️⃣
+## Day 2️⃣ (27 Oct)
 
 ### Basic PID Control
 **Controlling the motors** in different modalities is a necessary part to let our robot undertake the correct **action** in response to the cues received from the world. Among all the huge number of control tools engineers have, the **PID controller** is undoubtedly one of the **simplest** and at the same time **most effective** solution. Further, the PID is so **ubiquitous** in our lives — it can control nearly everything, up to a given extent 😏 — that knowing how it works will certainly turn out to be a **resource** you will be happy to own.   
@@ -79,7 +79,7 @@ Additionally, we will explain **shape recognition** using traditional computer v
 | | `tutorials` |
 | 17:30 — 19:30 | `assignments` |
 
-## Day 3️⃣
+## Day 3️⃣ (28 Oct)
 Day 3 is mostly free to let you elaborate on what you have learned thus far. Also, we will give you time to prepare the code for the demo on the last day!
 Of course, mentors will be always around to help. 
 
@@ -92,7 +92,7 @@ Enhance your soft skills with **"Can I trust you?" role-play** and find out more
 | :---: | :---: | 
 | 10:00 — 11:15 | `interaction` |
 
-## Day 4️⃣
+## Day 4️⃣ (29 Oct)
 👥 **Team contest** as final assignment on the 🤖
 
 | | |
