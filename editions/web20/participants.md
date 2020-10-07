@@ -21,6 +21,10 @@ Participants at WEB20
 |:---:|:---:|:---:|
 | **Alberto Musumeci** [@albertoeto](https://github.com/albertoeto)| **Kevin Klen H. Matira** [@kevinklenmatira](https://github.com/kevinklenmatira)| **Farshad Nozad Heravi** [@farshad-heravi](https://github.com/farshad-heravi)|
 
-|[<img src="https://github.com/lucarag.png" width="180">](https://github.com/lucarag)| [<img src="https://github.com/AkashSingh123.png" width="180">](https://github.com/AkashSingh123)| [<img src="https://github.com/farshad-heravi.png" width="180">](https://github.com/farshad-heravi)|
+|[<img src="https://github.com/lucarag.png" width="180">](https://github.com/lucarag)| [<img src="https://github.com/AkashSingh123.png" width="180">](https://github.com/AkashSingh123)| [<img src="https://github.com/francescosemeraro.png" width="180">](https://github.com/francescosemeraro)|
 |:---:|:---:|:---:|
-| **Luca Raggioli** [@lucarag](https://github.com/lucarag)| **Akash ** [@AkashSingh123](https://github.com/AkashSingh123)| **Farshad Nozad Heravi** [@farshad-heravi](https://github.com/farshad-heravi)|
+| **Luca Raggioli** [@lucarag](https://github.com/lucarag)| **Akash Singh** [@AkashSingh123](https://github.com/AkashSingh123)| **Francesco Semeraro** [@francescosemeraro](https://github.com/francescosemeraro)|
+
+|[<img src="https://github.com/khlee0697.png" width="180">](https://github.com/khlee0697)| [<img src="https://github.com/MartinaRuocco.png" width="180">](https://github.com/MartinaRuocco)|
+|:---:|:---:|
+| **khlee0697** [@khlee0697](https://github.com/khlee0697)| **mart** [@MartinaRuocco](https://github.com/MartinaRuocco)|
