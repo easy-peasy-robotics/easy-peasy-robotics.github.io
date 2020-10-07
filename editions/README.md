@@ -5,6 +5,7 @@ Online Edition, October 26-29, 2020.
 - 📢 [Open Call](./web20/open-call.md)
 - 📖 [Course program](./web20/course-program.md)
 - 👨🏻‍💻 [Mentors](./web20/mentors.md)
+- 🙋🏻‍♂️ [Participants](./web20/participants.md)
 
 ### Campus Party Italia 2018
 Coding Workshop at [Campus Party Italia](http://italia.campus-party.org/), Milan, Italy, July 19-20, 2018.
