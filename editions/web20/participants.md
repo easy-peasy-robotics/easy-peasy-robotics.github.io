@@ -21,10 +21,6 @@ Participants at WEB20
 |:---:|:---:|:---:|
 | **Luca Raggioli** [@lucarag](https://github.com/lucarag)| **Akash Singh** [@AkashSingh123](https://github.com/AkashSingh123)| **Francesco Semeraro** [@francescosemeraro](https://github.com/francescosemeraro)|
 
-|[<img src="https://github.com/khlee0697.png" width="180">](https://github.com/khlee0697)| [<img src="https://github.com/MartinaRuocco.png" width="180">](https://github.com/MartinaRuocco)| [<img src="https://github.com/ArekBerc.png" width="180">](https://github.com/ArekBerc) |
-|:---:|:---:|:---:|
-| **khlee0697** [@khlee0697](https://github.com/khlee0697)| **mart** [@MartinaRuocco](https://github.com/MartinaRuocco)| **ArekBerc** [@ArekBerc](https://github.com/ArekBerc)|
-
-|[<img src="https://github.com/abdelhakim96.png" width="180">](https://github.com/abdelhakim96)|
-|:---:|
-| **abdelhakim96** [@abdelhakim96](https://github.com/abdelhakim96)|
+|[<img src="https://github.com/khlee0697.png" width="180">](https://github.com/khlee0697)| [<img src="https://github.com/MartinaRuocco.png" width="180">](https://github.com/MartinaRuocco)| [<img src="https://github.com/ArekBerc.png" width="180">](https://github.com/ArekBerc) | [<img src="https://github.com/abdelhakim96.png" width="180">](https://github.com/abdelhakim96) |
+|:---:|:---:|:---:|:---:|
+| **khlee0697** [@khlee0697](https://github.com/khlee0697)| **mart** [@MartinaRuocco](https://github.com/MartinaRuocco)| **ArekBerc** [@ArekBerc](https://github.com/ArekBerc)| **abdelhakim96** [@abdelhakim96](https://github.com/abdelhakim96)|
