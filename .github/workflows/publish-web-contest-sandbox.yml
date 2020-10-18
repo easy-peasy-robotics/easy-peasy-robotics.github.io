@@ -12,8 +12,8 @@ jobs:
       uses: elgohr/Publish-Docker-Github-Action@master
       with:
         name: easy-peasy-robotics/web-contest-sandbox
-        username: vvv-school-bot
-        password: ${{ secrets.PUBLISH_DOCKER_IMAGE_GHCR_TOKEN_VVV_SCHOOL_BOT }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.PUBLISH_DOCKER_IMAGE_TOKEN_PATTACINI }}
         workdir: dockerfiles/web-contest-sandbox
         registry: ghcr.io
         tags: "latest"
