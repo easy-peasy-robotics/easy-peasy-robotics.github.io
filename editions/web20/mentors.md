@@ -1,9 +1,9 @@
 Mentors at WEB20
 ================
 
-|[<img src="https://github.com/pattacini.png" width="180">](https://github.com/pattacini)| [<img src="https://github.com/vtikha.png" width="180">](https://github.com/vtikha)| [<img src="https://github.com/traversaro.png" width="180">](https://github.com/traversaro)|
+|[<img src="https://github.com/pattacini.png" width="180">](https://github.com/pattacini)| [<img src="https://github.com/vtikha.png" width="180">](https://github.com/vtikha)| [<img src="https://github.com/traversaro.png" width="180">](https://github.com/traversaro)| [<img src="https://github.com/vvasco.png" width="180">](https://github.com/vvasco)|
 |:---:|:---:|:---:|:---:|
-| **Ugo Pattacini** [@pattacini](https://github.com/pattacini)| **Vadim Tikhanoff** [@vtikha](https://github.com/vtikha)| **Silvio Traversaro** [@traversaro](https://github.com/traveraro)|| **Valentina Vasco** [@vvasco](https://github.com/vvasco)|
+| **Ugo Pattacini** [@pattacini](https://github.com/pattacini)| **Vadim Tikhanoff** [@vtikha](https://github.com/vtikha)| **Silvio Traversaro** [@traversaro](https://github.com/traveraro)| **Valentina Vasco** [@vvasco](https://github.com/vvasco)|
 
 |[<img src="https://github.com/Nicogene.png" width="180">](https://github.com/Nicogene)| [<img src="https://github.com/salvi-mattia.png" width="180">](https://github.com/salvi-mattia)| [<img src="https://github.com/lineacurva.png" width="180">](https://github.com/lineacurva)|
 |:---:|:---:|:---:|
