@@ -53,9 +53,9 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 
 | | |
 | :---: | :---: | 
-| 09:00 — 11:00 | `lecture` |
-| | `tutorials` |
-| 11:00 — 13:00 | `assignments` |
+| 09:00 — 11:00 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/control.pptx) |
+| | [`tutorials`](https://janismac.github.io/ControlChallenges) |
+| 11:00 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_control-pid.git) |
 
 ### Soft Skills
 Wondering if you are a **risk taker**?
