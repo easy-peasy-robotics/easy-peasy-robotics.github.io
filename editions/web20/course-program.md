@@ -20,9 +20,9 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 
 | | |
 | :---: | :---: | 
-| 09:30 — 11:30 | `lecture` |
-| | `tutorials` |
-| 11:30 — 13:00 | `assignments` |
+| 09:30 — 11:30 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/web20/yarp.pptx) |
+| | [`tutorials`](https://github.com/vvv-school/tutorial_yarp-basics.git) |
+| 11:30 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_yarp-find-rgb.git) |
 
 ### Soft Skills
 Have you ever wondered if you are a **problem solver**?
