@@ -21,8 +21,8 @@ Through hands-on sessions, you will learn how to make code snippets run as threa
 | | |
 | :---: | :---: | 
 | 09:30 — 11:30 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/web20/yarp.pptx) |
-| | [`tutorials`](https://github.com/vvv-school/tutorial_yarp-basics.git) |
-| 11:30 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_yarp-find-rgb.git) |
+| | [`tutorials`](https://github.com/vvv-school/tutorial_yarp-basics) |
+| 11:30 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_yarp-find-rgb) |
 
 ### Soft Skills
 Have you ever wondered if you are a **problem solver**?
@@ -54,7 +54,7 @@ In this lesson plus hands-on, you will learn how to control the robotic head wit
 | :---: | :---: | 
 | 09:00 — 11:00 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/control.pptx) |
 | | [`tutorials`](https://janismac.github.io/ControlChallenges) |
-| 11:00 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_control-pid.git) |
+| 11:00 — 13:00 | [`assignments`](https://github.com/vvv-school/assignment_control-pid) |
 
 ### Soft Skills
 Wondering if you are a **risk taker**?
@@ -74,9 +74,9 @@ Additionally, we will explain **shape recognition** using traditional computer v
 
 | | |
 | :---: | :---: | 
-| 15:30 — 17:30 | `lecture` |
-| | `tutorials` |
-| 17:30 — 19:30 | `assignments` |
+| 15:30 — 17:30 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/editions/web20/vision.pptx) |
+| | [`tutorials`](https://github.com/vvv-school/tutorial_yarp-opencv) |
+| 17:30 — 19:30 | [`assignments`](https://github.com/easy-peasy-robotics/assignment_model-alignment) |
 
 ## Day 3 (28 Oct)
 Day 3 is mostly free to let you elaborate on what you have learned thus far. Also, we will give you time to prepare the code for the demo on the last day!
