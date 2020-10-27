@@ -41,8 +41,7 @@ At the end, you will be able to model your own 3D object that in turn will be pr
 | | |
 | :---: | :---: | 
 | 15:30 — 17:30 | [`lecture`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/cad-design.pptx) |
-| | `tutorials` |
-| 17:30 — 19:30 | `assignments` |
+| 17:30 — 19:30 | [`assignments`](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/blob/master/material/slides/cad-design-specs.pptx) |
 
 ## Day 2 (27 Oct)
 
