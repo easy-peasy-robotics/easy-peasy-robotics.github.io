@@ -53,7 +53,7 @@ Be aware of the requirements below:
 ### Resources
 - 📚 [Course program](./course-program.md)
 - 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues)
-- [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/icub)
+- [![Community](https://img.shields.io/badge/Join-Robotology_Community-blue?style=plastic&logo=github)](https://github.com/robotology/community)
 
 ### Sponsorships
 The WEB20 edition of the Easy Peasy Robotics Crash Course is sponsored by the [**TERRINet**](https://www.terrinet.eu/) EU initiative.
