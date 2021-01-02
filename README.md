@@ -14,4 +14,4 @@ Participants are expected to be skilled with **Linux** and to have background in
 - 📚 [Wiki](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/wiki) (_program_,  _instructions_, _material_)
 - 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues)
 - 🏆 [Editions](./editions/README.md)
-- [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/icub)
+- [![Community](https://img.shields.io/badge/Join-Robotology_Community-blue?style=plastic&logo=github)](https://github.com/robotology/community)
