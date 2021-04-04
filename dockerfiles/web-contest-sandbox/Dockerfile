@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 LABEL org.opencontainers.image.title="EPR Web Contest Sandbox"
 LABEL org.opencontainers.image.description="Infrastructure for running the EPR WEB Contest"
-LABEL org.opencontainers.image.source="https://github.com/easy-peasy-robotics/web-contest-sandbox"
+LABEL org.opencontainers.image.source="https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io"
 LABEL org.opencontainers.image.authors="Ugo Pattacini <ugo.pattacini@iit.it>"
 
 # Non-interactive installation mode
