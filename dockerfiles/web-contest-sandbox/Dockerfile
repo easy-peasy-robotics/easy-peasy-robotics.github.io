@@ -165,14 +165,8 @@ COPY start-vnc-session.sh /usr/bin/start-vnc-session.sh
 RUN chmod +x /usr/bin/start-vnc-session.sh && \
     dos2unix /usr/bin/start-vnc-session.sh
 
-# Manage x11vnc port
-EXPOSE 5901
-
-# Manage noVNC port
-EXPOSE 6080
-
-# Manage yarp port
-EXPOSE 10000/tcp 10000/udp
+# Manage ports
+EXPOSE 5901 6080 10000/tcp 10000/udp
 
 # Clean up unnecessary installation products
 RUN rm -Rf /var/lib/apt/lists/*
