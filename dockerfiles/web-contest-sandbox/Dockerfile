@@ -57,7 +57,7 @@ RUN sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb
     apt install -y libcgal-dev gazebo libgazebo-dev
 
 # Install VTK
-RUN git clone https://github.com/Kitware/VTK.git --depth 1 --branch v8.2.0 && \
+RUN git clone https://github.com/Kitware/VTK.git --depth 1 --branch v9.1.0 && \
     cd VTK && mkdir build && cd build && \
     cmake .. \
     -DCMAKE_BUILD_TYPE=${BUILD_TYPE} \
