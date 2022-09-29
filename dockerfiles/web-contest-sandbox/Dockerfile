@@ -57,24 +57,7 @@ RUN apt install -y libflann-dev libqhull-dev
 RUN sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list' && \
     wget https://packages.osrfoundation.org/gazebo.key -O - | tee /etc/apt/trusted.gpg.d/gazebo.asc && \
     apt update && \
-    apt install -y libcgal-dev gazebo libgazebo-dev
-
-# Install VTK
-RUN git clone https://github.com/Kitware/VTK.git --depth 1 --branch v9.1.0 && \
-    cd VTK && mkdir build && cd build && \
-    cmake .. \
-    -DCMAKE_BUILD_TYPE=${BUILD_TYPE} \
-    -DBUILD_TESTING=OFF && \
-    make install && \
-    cd ../.. && rm -Rf VTK
-
-# Install PCL
-RUN git clone https://github.com/PointCloudLibrary/pcl.git --depth 1 --branch pcl-1.11.1 && \
-    cd pcl && mkdir build && cd build && \
-    cmake .. \
-    -DCMAKE_BUILD_TYPE=${BUILD_TYPE} && \
-    make install && \
-    cd ../.. && rm -Rf pcl
+    apt install -y libpcl-dev libcgal-dev gazebo libgazebo-dev
 
 # Build robotology-superbuild
 RUN cd robotology-superbuild && mkdir build && cd build && \
