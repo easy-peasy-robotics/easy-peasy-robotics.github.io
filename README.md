@@ -15,3 +15,4 @@ Participants are expected to be skilled with **Linux** and to have background in
 - 👋 [Q&A](https://github.com/easy-peasy-robotics/easy-peasy-robotics.github.io/issues)
 - 🏆 [Editions](./editions/README.md)
 - [![Community](https://img.shields.io/badge/Join-Robotology_Community-blue?style=plastic&logo=github)](https://github.com/robotology/community)
+
